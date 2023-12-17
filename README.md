@@ -27,7 +27,6 @@ git clone https://github.com/your-username/Exocode_Technologies_Assessment.git
 
 
 # .env file
-
 # Google OAuth
 GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
