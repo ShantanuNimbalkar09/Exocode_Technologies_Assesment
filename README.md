@@ -22,7 +22,7 @@ bash
 git clone https://github.com/your-username/Exocode_Technologies_Assessment.git
 
 
-2.Navigate to the project directory:
+# 2.Navigate to the project directory:
    cd Exocode_Technologies_Assessment
 
 
@@ -36,6 +36,6 @@ GOOGLE_CLIENT_SECRET=your-google-client-secret
 GITHUB_CLIENT_ID=your-github-client-id
 GITHUB_CLIENT_SECRET=your-github-client-secret
 
-3.Run the application:
+# 3.Run the application:
 go run main.go
    
